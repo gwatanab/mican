@@ -26,11 +26,10 @@
       "environments": [
         "edit"
       ],
-      "url": "https://milo.adobe.com/tools/loc/index.html",
+      "url": "http://localhost:3000/tools/loc/index.html?project=mican--gwatanab",
       "passReferrer": true,
       "passConfig": true,
-      "excludePaths": [ "/**" ],
-      "includePaths": [ "**/:x**" ]
+      "includePaths": [ "**.xlsx**" ]
     },
     {
       "containerId": "tools",
